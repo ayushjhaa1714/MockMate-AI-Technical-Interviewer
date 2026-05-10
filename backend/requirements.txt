@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart    # For handling PDF uploads
+pypdf               # For reading PDF text
+langchain
+langgraph
+langchain-groq      # Free LLM access
+python-dotenv       # To read .env files

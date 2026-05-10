@@ -1,0 +1,10 @@
+# Ignore Backend junk
+backend/venv/
+backend/__pycache__/
+backend/.env
+*.pyc
+
+# Ignore Frontend junk
+frontend/node_modules/
+frontend/dist/
+frontend/.env
